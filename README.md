@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola, Mi Nombre es Ezequiel Pereyra 👋
 
+# Soy un Frontend Jr/Trainee
 <!--
 **Ezequielpereyraa/Ezequielpereyraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
