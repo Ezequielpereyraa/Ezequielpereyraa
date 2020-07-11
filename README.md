@@ -1,6 +1,7 @@
 ### Hola, Mi Nombre es Ezequiel Pereyra 👋
 
 # Soy un Frontend Jr/Trainee
+Estoy en la busqueda de mi primer experiencia como desarrollador
 <!--
 **Ezequielpereyraa/Ezequielpereyraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
