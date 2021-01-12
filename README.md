@@ -1,7 +1,7 @@
 ### Hola, Mi Nombre es Ezequiel Pereyra 👋
 
-# Soy Frontend Jr/Trainee
-Soy Desarrollador Frontend Jr. Actualmente estoy enfocado en el mundo del desarrollo web con React.
+# Soy Frontend Developer
+Soy Desarrollador Frontend . Actualmente estoy enfocado en el mundo del desarrollo web con React.
 
 # Sobre mi
  Me considero una persona comprometida, responsable, con muchas ganas
