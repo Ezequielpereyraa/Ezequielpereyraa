@@ -1,6 +1,6 @@
 ### Hola, Mi Nombre es Ezequiel Pereyra 👋
 
-# Soy Frontend Developer
+# Soy Full Stack Web Developer
 Soy Desarrollador Frontend . Actualmente estoy enfocado en el mundo del desarrollo web con React.
 
 # Sobre mi
