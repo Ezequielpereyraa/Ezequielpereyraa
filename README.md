@@ -13,7 +13,7 @@ Actualmente estoy enfocado en el mundo del desarrollo web con React.
           y en backend tecnologias como
           NODE,EXPRESS,SEQUELIZE,POSTGRES
           
-- 🔭 Actualmente trabajo como Frontend en @Fizzmod
+- 🔭 Actualmente trabajo como Frontend en @UMA-Health
 - 📫 Me puedes contactar por Email: gezequielpereyra@gmail.com | Twitter: @EzhePereyra
 
 
