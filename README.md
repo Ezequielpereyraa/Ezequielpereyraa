@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hola, Mi Nombre es Ezequiel Pereyra 👋<br><br>Soy Full Stack Web Developer<br>Actualmente estoy enfocado en el mundo del desarrollo web con React.<br> Me considero una persona comprometida, responsable, con muchas ganas<br> de aprender y crecer profesionalmente. Me gusta trabajar en equipo y<br>          tengo facilidad de adaptación.<br>          Soy autodidacta, un apasionado del desarrollo web y Me especializo en<br>          la parte de frontend y manejo tecnologías como<br>          HTML, CSS ,BOOTSTRAP ,SASS, JAVASCRIPT, REACTJS, REDUX<br>          y en backend tecnologias como<br>          NODE,EXPRESS,SEQUELIZE,POSTGRES<br>          <br>- 🔭 Actualmente trabajo como Frontend en @UMA-Health<br>- 📫 Me puedes contactar por Email: gezequielpereyra@gmail.com | Twitter: @EzhePereyra<br>
+
+Desarrollador Frontend con más de 4 años de experiencia creando productos digitales 
+modernos, escalables y centrados en el usuario. Especializado en React y Next.js, combino 
+habilidades de desarrollo visual y técnico para construir interfaces atractivas y de alto 
+rendimiento. 
+Poseo experiencia y sólidos conocimientos en tareas de backend utilizando Node.js, Nestjs
+Firebase y bases de datos relacionales y no relacionales, lo que me permite colaborar de 
+forma transversal con los equipos y participar en todo el ciclo de desarrollo. 
+Me destaco por mi enfoque en la calidad del código, la performance y la colaboración en 
+equipos ágiles, asumiendo también el rol de referente para perfiles junior y contribuyendo a 
+la toma de decisiones técnicas.<br>          <br>- 🔭 Actualmente trabajo como Frontend en @UMA-Health<br>- 📫 Me puedes contactar por Email: gezequielpereyra@gmail.com | Twitter: @EzhePereyra<br>
 
 
 ## 🌐 Socials:
