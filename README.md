@@ -1,68 +1,82 @@
-# 💫 About Me
+# 💫 Sobre mí
 
-Frontend Developer con +4 años de experiencia construyendo productos digitales modernos, escalables y centrados en el usuario.
+Frontend Engineer especializado en React, Next.js y TypeScript, con más de 4 años de experiencia construyendo y evolucionando productos digitales utilizados por miles de usuarios.
 
-Me especializo en React y Next.js, con un fuerte enfoque en performance, arquitectura limpia y experiencia de usuario. No solo desarrollo interfaces: construyo productos completos, desde la idea hasta su implementación y crecimiento.
+A lo largo de mi carrera trabajé en plataformas de telemedicina, e-commerce y productos SaaS, participando en todo el ciclo de vida del software: desde el análisis de requerimientos y diseño de soluciones hasta la implementación, despliegue y soporte en producción.
 
-Tengo experiencia en backend con Node.js, NestJS y Firebase, lo que me permite trabajar de forma end-to-end y tomar decisiones técnicas con impacto real en el negocio.
+Me interesa especialmente la construcción de productos mantenibles y escalables, combinando experiencia técnica, visión de producto y foco en generar impacto real para usuarios y negocios. Disfruto resolver problemas complejos, optimizar procesos y transformar ideas en soluciones concretas.
 
-Además de mi rol como desarrollador, también soy emprendedor y builder:
-me enfoco en crear soluciones reales, validar ideas y optimizar procesos.
+Complemento mi experiencia frontend con conocimientos de backend utilizando Node.js, NestJS y Firebase, lo que me permite colaborar de forma transversal y participar en el diseño e implementación de soluciones de punta a punta.
 
----
-
-## 🚀 Productos & Proyectos
-
-- 🧠 **AgendameUnTurno**  
-  SaaS de gestión de turnos orientado a profesionales.  
-  Enfocado en simplicidad, métricas y escalabilidad.  
-  → https://www.agendameunturno.com/
-
-- 🍔 **Freaky’s Burgers**  
-  Dark kitchen + sistema propio de pedidos y operaciones.  
-  Desarrollo interno de herramientas, automatizaciones y experiencia de cliente.  
-  → https://www.freakysburgers.com/
-
-- 🎉 **Malta Cotillón**  
-  Negocio físico + estrategia digital + optimización de stock y ventas.  
-  Implementación de mejoras en experiencia de compra y organización operativa.
+Además de mi trabajo profesional, desarrollo y gestiono proyectos propios, donde aplico principios de producto, tecnología y negocio para validar ideas, automatizar procesos y construir soluciones reales.
 
 ---
 
-## 🧠 Cómo trabajo
+## 🚀 Proyectos destacados
 
-- ⚡ Enfoque en performance y experiencia de usuario
-- 🧱 Arquitectura escalable (clean architecture, separation of concerns)
-- 🔁 Iteración constante basada en producto real (no solo teoría)
-- 📊 Decisiones técnicas alineadas al negocio
-- 🤝 Trabajo en equipo
+### 🧠 AgendameUnTurno
+
+Plataforma SaaS para gestión de turnos y reservas online.
+
+* Arquitectura multi-tenant.
+* Gestión de agendas, disponibilidad y reservas.
+* Desarrollo full stack con Next.js, TypeScript y Firebase.
+
+🔗 https://www.agendameunturno.com
+
+### 🍔 Freakys Burgers
+
+Negocio gastronómico acompañado por herramientas digitales desarrolladas a medida.
+
+* Automatización de procesos operativos.
+* Gestión comercial y análisis de métricas.
+* Desarrollo de soluciones internas para mejorar la operación diaria.
+
+🔗 https://www.freakysburgers.com
+
+### 🎉 Malta Cotillón
+
+Negocio físico con foco en optimización digital y mejora continua.
+
+* Implementación de herramientas para ventas y gestión comercial.
+* Optimización de procesos y experiencia de compra.
+
+🔗 https://maltacotillon.com
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Enfoque de trabajo
 
-**Frontend**
-React · Next.js · TypeScript · Tailwind · Redux
-
-**Backend**
-Node.js · NestJS · Firebase · REST APIs
-
-**Database**
-MongoDB · PostgreSQL · Firestore
+* Construcción de productos digitales escalables.
+* Calidad de código y mantenibilidad a largo plazo.
+* Experiencia de usuario y performance.
+* Resolución de problemas con foco en negocio.
+* Colaboración efectiva con equipos multidisciplinarios.
+* Mejora continua de procesos y plataformas.
 
 ---
 
-## 🌐 Contact
+## 💻 Tecnologías
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ezequielpereyra/
-- 📫 Email: gezequielpereyra@gmail.com
+### Frontend
+
+React · Next.js · TypeScript · JavaScript · Redux · Tailwind CSS
+
+### Backend
+
+Node.js · NestJS · Firebase
+
+### Bases de datos
+
+Firestore · PostgreSQL
+
+### Herramientas
+
+Git · GitHub · Vercel · Jira · Figma
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Contacto
 
-![](https://github-readme-stats.vercel.app/api?username=Ezequielpereyraa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ezequielpereyraa&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequielpereyraa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💼 LinkedIn: linkedin.com/in/ezequielpereyra
+📧 Email: [gezequielpereyra@gmail.com](mailto:gezequielpereyra@gmail.com)
